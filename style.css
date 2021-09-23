@@ -21,7 +21,7 @@ p{
 /* utility Classes */
 
 .container{
-    max-width: 90vw;
+    max-width: 1200px;
     width: 100%;
     margin: 0 auto;
 }
@@ -85,6 +85,7 @@ p{
 .flex-container{
     padding: 5% 2%;
     display: flex;
+    justify-content: space-between;
 }
 
 .flex-container img{
