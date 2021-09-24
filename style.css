@@ -47,7 +47,7 @@ p{
 /* hero section */
 
 .hero{
-    background:url('./Assests/main-div-background.png') no-repeat center center/cover;
+    background:url('./Assests/main-div-background.jpg') no-repeat center center/cover;
     height: 80vh;
     position: relative;
 }
