@@ -173,4 +173,16 @@ p{
         margin-top: 10px;
         margin-bottom: 0;
     }
+
+    .blue-bg .section-content{
+        padding: 0 4%;
+    }
+
+    .card p,
+    .content,
+    .card h3{
+        width: 80%;
+        margin: 0 auto;
+    }
+    
 }
